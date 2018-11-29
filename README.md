@@ -1,5 +1,5 @@
 # Fraud_Detection
-The supporting code for the fraud detection series on my  blog https://ihh300.github.io/banking/Data-Science-for-Fraud-Detection-Overview/
+The supporting code for the fraud detection series article I have written and published on my  blog https://ihh300.github.io/banking/Data-Science-for-Fraud-Detection-Overview/
 
 ![Overview of the credit card fraud project outcomes](Repo_Credit_Card_Visual.jpg)
 
